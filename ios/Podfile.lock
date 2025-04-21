@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - motion_sensors (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - motion_sensors (from `.symlinks/plugins/motion_sensors/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  motion_sensors:
+    :path: ".symlinks/plugins/motion_sensors/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  motion_sensors: 741e702c17467b9569a92165dda8d4d88c6167f1
+
+PODFILE CHECKSUM: 07f5c2cc7313915ca91ff6c15b68ce2c1171b91b
+
+COCOAPODS: 1.16.2
