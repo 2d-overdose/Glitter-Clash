@@ -2,6 +2,8 @@
 
 A magical Flutter game where players pick a fairy and use character-specific missiles to defeat enemies across multiple levels! Fire spells, dodge bosses, and shake your phone to reload in this motion-enhanced arcade shooter.
 
+The project is available in GitLab and GitHub, due to restrictions in sharing the GitLab repository. The GitHub repository contains all the final files and serves as a way to share the project with users outside of my institution (university). Commit history is only available on GitLab since the project was developed there and the full repository history failed to clone on GitHub. 
+
 ## Features
 
 - Character Selection – Choose between unique fairy characters, each with their own custom missile.
